@@ -121,12 +121,12 @@
   justify-content: space-around;
 }
 
-//.big-photo-item{
-//  width:375rpx;
-//  display: flex;
-//  flex-direction: column;
-//  padding:2rpx 0rpx;
-//}
+/*.big-photo-item{
+  width:375rpx;
+  display: flex;
+  flex-direction: column;
+  padding:2rpx 0rpx;
+}*/
 
 .photo-item {
   display: flex;
